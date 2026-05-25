@@ -77,7 +77,7 @@ Upload the provided Arduino code using Arduino IDE with the following libraries 
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**  
+Developed by **[Muhammad Zulqarnain]**  
 For academic and smart system development purposes.
 
 ---
